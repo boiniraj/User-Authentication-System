@@ -1,4 +1,4 @@
-# User Management API  
+# User-Authentication-System
 
 ## Overview  
 The **User Management API** is a RESTful service built using Spring Boot. It provides various endpoints for managing user accounts, including features such as user registration, login, activation, updating user details, and recovering passwords.
